@@ -1,0 +1,656 @@
+Added Component: Designator=*1(HC-05)
+Add component. Clean all parameters for all variants
+Added Component: Designator=B1(SPEAKER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BT1(2AAA Battery Holder)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#http://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "10UF 16V X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/taiyo-yuden/EMK212BB7106MG-T/587-3319-1-ND/4157364#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "EMK212BB7106MG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#http://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "10UF 16V X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/taiyo-yuden/EMK212BB7106MG-T/587-3319-1-ND/4157364#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "EMK212BB7106MG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#http://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "1UF 35V X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/taiyo-yuden/GMK212B7105KG-T/587-1438-1-ND/1004069#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "GMK212B7105KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.22uF-25V-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C224K3RACAUTO/399-6947-1-ND/3314455#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C224K3RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.22uF-25V-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C224K3RACAUTO/399-6947-1-ND/3314455#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C224K3RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "25"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Tunn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "#https://api.kemet.com/component-edge/download/datasheet/C0805C104K4RACTU.pdf#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "0.1uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/kemet/C0805C104K4RACTU/399-1167-1-ND/411442#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55° to 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "C0805C104K4RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rated"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED SMD 0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC1(DFN-8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LCD1(LCD 5110)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR2X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Header 5x2 horizontal (2.54mm))
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(HDR2X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Quyen.nv"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Detailed Value"; Value = "100R 1% 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link sale"; Value = "#https://www.digikey.com/product-detail/en/yageo/RC0805FR-07100RL/311-100CRCT-ND/730490#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partnumber"; Value = "RC0805FR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing (USD)"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW 4PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW 4PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW 4PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW 4PIN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(BT 6pin)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(LQFP48_7x7)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(SOT223 - 3 LEAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(DC-IN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(NRF51822_Module)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y1(XTAL_HC-49/U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=*1-5
+Added Pin To Net: NetName=+3.3 Pin=B1-1
+Added Pin To Net: NetName=+3.3 Pin=C13-2
+Added Pin To Net: NetName=+3.3 Pin=C14-2
+Added Pin To Net: NetName=+3.3 Pin=C15-2
+Added Pin To Net: NetName=+3.3 Pin=C16-2
+Added Pin To Net: NetName=+3.3 Pin=D1-2
+Added Pin To Net: NetName=+3.3 Pin=IC1-5
+Added Pin To Net: NetName=+3.3 Pin=P1-1
+Added Pin To Net: NetName=+3.3 Pin=P1-2
+Added Pin To Net: NetName=+3.3 Pin=P2-7
+Added Pin To Net: NetName=+3.3 Pin=P2-8
+Added Pin To Net: NetName=+3.3 Pin=R1-1
+Added Pin To Net: NetName=+3.3 Pin=R3-1
+Added Pin To Net: NetName=+3.3 Pin=R4-1
+Added Pin To Net: NetName=+3.3 Pin=R5-1
+Added Pin To Net: NetName=+3.3 Pin=R6-1
+Added Pin To Net: NetName=+3.3 Pin=R7-1
+Added Pin To Net: NetName=+3.3 Pin=R8-1
+Added Pin To Net: NetName=+3.3 Pin=SW1-3
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=+3.3 Pin=U1-9
+Added Pin To Net: NetName=+3.3 Pin=U1-24
+Added Pin To Net: NetName=+3.3 Pin=U1-36
+Added Pin To Net: NetName=+3.3 Pin=U1-48
+Added Pin To Net: NetName=+3.3 Pin=U4-11
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C12-2
+Added Pin To Net: NetName=+5 Pin=P1-3
+Added Pin To Net: NetName=+5 Pin=P1-4
+Added Pin To Net: NetName=+5 Pin=P2-9
+Added Pin To Net: NetName=+5 Pin=P2-10
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Pin To Net: NetName=+5 Pin=U3-1
+Added Net: Name=+5
+Added Pin To Net: NetName=BT1 Pin=C7-2
+Added Pin To Net: NetName=BT1 Pin=R3-2
+Added Pin To Net: NetName=BT1 Pin=S1-2
+Added Pin To Net: NetName=BT1 Pin=S1-2
+Added Pin To Net: NetName=BT1 Pin=U1-15
+Added Net: Name=BT1
+Added Pin To Net: NetName=BT2 Pin=C8-2
+Added Pin To Net: NetName=BT2 Pin=R4-2
+Added Pin To Net: NetName=BT2 Pin=S2-2
+Added Pin To Net: NetName=BT2 Pin=S2-2
+Added Pin To Net: NetName=BT2 Pin=U1-16
+Added Net: Name=BT2
+Added Pin To Net: NetName=BT3 Pin=C9-2
+Added Pin To Net: NetName=BT3 Pin=R5-2
+Added Pin To Net: NetName=BT3 Pin=S3-2
+Added Pin To Net: NetName=BT3 Pin=S3-2
+Added Pin To Net: NetName=BT3 Pin=U1-17
+Added Net: Name=BT3
+Added Pin To Net: NetName=BUZZ Pin=R2-2
+Added Pin To Net: NetName=BUZZ Pin=U1-14
+Added Net: Name=BUZZ
+Added Pin To Net: NetName=CE Pin=LCD1-2
+Added Pin To Net: NetName=CE Pin=U1-19
+Added Net: Name=CE
+Added Pin To Net: NetName=CLK Pin=LCD1-5
+Added Pin To Net: NetName=CLK Pin=U1-4
+Added Net: Name=CLK
+Added Pin To Net: NetName=DC Pin=LCD1-3
+Added Pin To Net: NetName=DC Pin=U1-2
+Added Net: Name=DC
+Added Pin To Net: NetName=DIN Pin=LCD1-4
+Added Pin To Net: NetName=DIN Pin=U1-3
+Added Net: Name=DIN
+Added Pin To Net: NetName=GND Pin=*1-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=LCD1-8
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Net: Name=GND
+Added Pin To Net: NetName=JTCK Pin=P2-2
+Added Pin To Net: NetName=JTCK Pin=U1-37
+Added Net: Name=JTCK
+Added Pin To Net: NetName=JTMS Pin=P2-4
+Added Pin To Net: NetName=JTMS Pin=U1-34
+Added Net: Name=JTMS
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=R2-1
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=C5-2
+Added Pin To Net: NetName=NetC3_2 Pin=D1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U2-4
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-7
+Added Pin To Net: NetName=NetLCD1_6 Pin=SW1-2
+Added Net: Name=NetLCD1_6
+Added Pin To Net: NetName=NRST Pin=C11-2
+Added Pin To Net: NetName=NRST Pin=R6-2
+Added Pin To Net: NetName=NRST Pin=S4-2
+Added Pin To Net: NetName=NRST Pin=S4-2
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC_IN Pin=C6-2
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_IN Pin=Y1-2
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C10-2
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-1
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=RST2 Pin=LCD1-1
+Added Pin To Net: NetName=RST2 Pin=U1-18
+Added Net: Name=RST2
+Added Pin To Net: NetName=RST Pin=P2-1
+Added Net: Name=RST
+Added Pin To Net: NetName=RX1 Pin=P3-2
+Added Pin To Net: NetName=RX1 Pin=P3-3
+Added Pin To Net: NetName=RX1 Pin=U1-31
+Added Pin To Net: NetName=RX1 Pin=U4-4
+Added Net: Name=RX1
+Added Pin To Net: NetName=RXD2 Pin=*1-3
+Added Pin To Net: NetName=RXD2 Pin=U1-13
+Added Net: Name=RXD2
+Added Pin To Net: NetName=SCL1 Pin=IC1-4
+Added Pin To Net: NetName=SCL1 Pin=R8-2
+Added Pin To Net: NetName=SCL1 Pin=U1-42
+Added Pin To Net: NetName=SCL1 Pin=U4-33
+Added Net: Name=SCL1
+Added Pin To Net: NetName=SDA1 Pin=IC1-1
+Added Pin To Net: NetName=SDA1 Pin=R7-2
+Added Pin To Net: NetName=SDA1 Pin=U1-43
+Added Pin To Net: NetName=SDA1 Pin=U4-35
+Added Net: Name=SDA1
+Added Pin To Net: NetName=SWIM Pin=P2-3
+Added Net: Name=SWIM
+Added Pin To Net: NetName=TX1 Pin=P3-1
+Added Pin To Net: NetName=TX1 Pin=P3-4
+Added Pin To Net: NetName=TX1 Pin=U1-30
+Added Pin To Net: NetName=TX1 Pin=U4-6
+Added Net: Name=TX1
+Added Pin To Net: NetName=TXD2 Pin=*1-2
+Added Pin To Net: NetName=TXD2 Pin=U1-12
+Added Net: Name=TXD2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

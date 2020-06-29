@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Change Component Footprint: Designator=BT1 Old Footprint=Battery CELL_HOLDER New Footprint=PIN3V
+Change Component Comment : Designator=BT1 Old Comment=2x3V n?i ti?p New Comment=CR2032
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Component: Designator=BT2(PIN3V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D2(Zener Diode)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=+5 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=BT2-1
+Added Net: Name=NetBT1_2
+Added Member To Class: ClassName=Sheet1 Member=Component BT2 CR2032
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Zener Diode
+Added Room: Name=Sheet1

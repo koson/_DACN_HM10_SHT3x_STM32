@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=BT1 Old Footprint=2AAA Battery Holder New Footprint=Battery CELL_HOLDER
+Added Pin To Net: NetName=+5 Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Room: Name=Sheet1
