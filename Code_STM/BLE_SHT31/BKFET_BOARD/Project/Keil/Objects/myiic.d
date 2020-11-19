@@ -3,7 +3,7 @@
 .\objects\myiic.o: ..\main.h
 .\objects\myiic.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\objects\myiic.o: ..\..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
-.\objects\myiic.o: C:\Softwares\uVision\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myiic.o: D:\LearningSoftware\MDK_ARM\MDK-ARM\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\myiic.o: ..\..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
 .\objects\myiic.o: ..\..\Project\stm32f10x_conf.h
 .\objects\myiic.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
@@ -24,5 +24,5 @@
 .\objects\myiic.o: ..\nokia_5110.h
 .\objects\myiic.o: ..\SHT31.h
 .\objects\myiic.o: ..\myiic.h
-.\objects\myiic.o: C:\Softwares\uVision\Keil\ARM\ARMCC\Bin\..\include\string.h
-.\objects\myiic.o: C:\Softwares\uVision\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\myiic.o: D:\LearningSoftware\MDK_ARM\MDK-ARM\ARM\ARMCC\Bin\..\include\string.h
+.\objects\myiic.o: D:\LearningSoftware\MDK_ARM\MDK-ARM\ARM\ARMCC\Bin\..\include\stdio.h

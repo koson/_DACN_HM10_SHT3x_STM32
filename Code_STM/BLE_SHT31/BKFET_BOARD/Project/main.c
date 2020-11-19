@@ -347,7 +347,7 @@ int main(void)
 //	Init_GPIO(MB_BUZZ_CLK, MB_BUZZ_PORT, MB_BUZZ, OUTPUT);
 	
 	// Khoi tao LCD
-	LCDInit(0x14); // Tuy mach thi contrast se khac nhau
+	LCDInit(0x20);// Tuy mach thi contrast se khac nhau
 	
 //USART Config
 	USART2_Configuration(9600);
